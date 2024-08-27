@@ -13,10 +13,13 @@
 
 ## How to run?
 
+```bash
 python3 -m venv visaEnv  
+```
 
+```bash
 source myenv/bin/activate
-
+```
 
 ```bash
 pip3 install -r requirements.txt
